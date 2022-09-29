@@ -2,9 +2,9 @@
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ribas93&show_icons=true&&theme=radical&hide=prs,issues)](https://github.com/Ribas93/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ribas93&show_icons=true&&theme=darcula&hide=prs,issues)](https://github.com/Ribas93/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribas93&layout=compact&theme=radical)](https://github.com/Ribas93/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribas93&layout=compact&theme=darcula)](https://github.com/Ribas93/github-readme-stats)
 <hr>
 <br>
 <div style="display: inline_block">
