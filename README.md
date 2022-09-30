@@ -1,18 +1,16 @@
 
 ```
- <>  "Hello World"; const Name = "Vinicius Ribas" 👋  </>
+ <>"Hello World"; const Name = "Vinicius Ribas" 👋 </>
+ 
+    console.log(welcome.toUpperCase()); WELCOME!😀
 ```
 ```
-console.log(welcome.toUpperCase()); WELCOME!😀
-```
+let aboutMe  = {};
+ aboutMe.status = () => 'I`m a student'
+ aboutMe.technophile = true
+ aboutMe.goal = 'Fullstack Developer'
+ aboutMe.skills = ["JavaScript", "CSS", "HTML", "React.js", "Git" ]
 
-```
-let aboutMe = {
- status: () => 'I`m a student',
- technophile: true,
- goal: 'Fullstack Developer',
- skills: ["JavaScript", "CSS", "HTML", "React.js", "Git" ],
-}
 ```
 
 <div style="display: inline_block">
