@@ -4,8 +4,10 @@
                                         <>  Olà Mundo, eu sou Vinicius Ribas 👋  </>*
 ```
 <hr>
+<div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ribas93&show_icons=true&&theme=darcula&hide=prs,issues&include_all_commits=true&count_private=true">
 <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribas93&layout=compact&theme=darcula">
+</div>
 <hr/>
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
