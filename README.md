@@ -2,6 +2,18 @@
 ```
  <>  "Hello World"; const Name = "Vinicius Ribas" 👋  </>
 ```
+```
+console.log(welcome.toUpperCase()); WELCOME!😀
+```
+
+```
+let aboutMe = {
+ status: () => 'I`m a student',
+ technophile: true,
+ goal: 'Fullstack Developer',
+ skills: ["JavaScript", "CSS", "HTML", "React.js", "Git" ],
+}
+```
 
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
