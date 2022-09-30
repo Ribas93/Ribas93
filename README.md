@@ -2,12 +2,6 @@
 ```
                                         <>  Olà Mundo, eu sou Vinicius Ribas 👋  </>
 ```
-<hr>
-<div align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ribas93&show_icons=true&&theme=darcula&hide=prs,issues&include_all_commits=true&count_private=true">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribas93&layout=compact&theme=darcula">
-</div>
-<hr/>
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -16,13 +10,18 @@
   <img align="center" alt="Git"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" >
 </div>
 <hr>
+<div align="left">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ribas93&show_icons=true&&theme=darcula&hide=prs,issues&include_all_commits=true&count_private=true">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribas93&layout=compact&theme=darcula">
+</div>
+<hr>
 <div> 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ribasoficial01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-ribas-779001200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
+
 
 
 <!--
