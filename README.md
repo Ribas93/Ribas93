@@ -17,8 +17,8 @@
 </div>
 <hr>
 <div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/vinicius.gribas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/XZBEFvtM5T" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ribasoficial01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-ribas-779001200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
@@ -27,14 +27,6 @@
 
 <!--
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ribas93&show_icons=true&&theme=darcula&hide=prs,issues&include_all_commits=true&count_private=true)](https://github.com/Ribas93/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribas93&layout=compact&theme=darcula)](https://github.com/Ribas93/github-readme-stats)
-<div align="center" >
-  <a href="https://github.com/rafaballerini">
-  <img margin="20px" height="150em" src="https://github-readme-stats.vercel.app/api?username=Ribas93&show_icons=true&&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribas93&layout=compact&theme=radical"/>
-</div>
 **Ribas93/Ribas93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
