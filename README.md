@@ -1,10 +1,13 @@
-                                                  <>  Olà Mundo, eu sou Vinicius Ribas 👋  </>
+```
+                                               <>  Olà Mundo, eu sou Vinicius Ribas 👋  </>*
+```
+<br>
+<br>  
+<img  height="150em" src="https://github-readme-stats.vercel.app/api?username=Ribas93&show_icons=true&&theme=darcula&hide=prs,issues&include_all_commits=true&count_private=true"/>
+<img   height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribas93&layout=compact&theme=darcula"/>
 
-<hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ribas93&show_icons=true&&theme=darcula&hide=prs,issues)](https://github.com/Ribas93/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribas93&layout=compact&theme=darcula)](https://github.com/Ribas93/github-readme-stats)
 <hr>
 <br>
 <div style="display: inline_block">
@@ -28,6 +31,9 @@
 
 <!--
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ribas93&show_icons=true&&theme=darcula&hide=prs,issues&include_all_commits=true&count_private=true)](https://github.com/Ribas93/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribas93&layout=compact&theme=darcula)](https://github.com/Ribas93/github-readme-stats)
 <div align="center" >
   <a href="https://github.com/rafaballerini">
   <img margin="20px" height="150em" src="https://github-readme-stats.vercel.app/api?username=Ribas93&show_icons=true&&theme=radical&include_all_commits=true&count_private=true"/>
