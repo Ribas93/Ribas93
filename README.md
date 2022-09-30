@@ -1,9 +1,9 @@
 
 ```
-                                        <>  Olà Mundo, eu sou Vinicius Ribas 👋  </>*
+                                        <>  Olà Mundo, eu sou Vinicius Ribas 👋  </>
 ```
 <hr>
-<div align="center">
+<div align="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ribas93&show_icons=true&&theme=darcula&hide=prs,issues&include_all_commits=true&count_private=true">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribas93&layout=compact&theme=darcula">
 </div>
