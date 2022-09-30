@@ -9,7 +9,7 @@ let aboutMe  = {};
  aboutMe.status = () => 'I`m a student'
  aboutMe.technophile = true
  aboutMe.goal = 'Fullstack Developer'
- aboutMe.skills = ["JavaScript", "CSS", "HTML", "React.js", "Git" ]
+ aboutMe.skills = ["JavaScript", "React.js","HTML", "CSS", "Git" ]
 
 ```
 
