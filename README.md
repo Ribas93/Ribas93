@@ -1,11 +1,12 @@
 
 ```
- <>"Hello World"; const Name = "Vinicius Ribas" 👋 </>
+ <> "Hello World"; const Name = "Vinicius Ribas" 👋 </>
  
     console.log(welcome.toUpperCase()); WELCOME!😀
 ```
 ```
 let aboutMe  = {};
+
  aboutMe.status = () => 'I`m a student'
  aboutMe.technophile = true
  aboutMe.goal = 'Fullstack Developer'
